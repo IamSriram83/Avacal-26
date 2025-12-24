@@ -77,13 +77,13 @@
     </tbody>
   </table>
 <br>
-<img src="c:\Html\Avanti-Frozen.jpg" width="230px" height="120px">
-<img src="c:\Html\avanti-frozen1.jpg" width="230px" height="120px">
-<img src="c:\Html\Avanti-Feeds1.png" width="230px" height="120px">
-<img src="c:\Html\Avanti-Feeds2.png" width="230px" height="120px">
-<img src="c:\Html\AVANT-prow-1.jpg" width="120px" height="120px">
-<img src="c:\Html\avantifeedbags.png" width="120px" height="100px">
-<img src="c:\Html\avantifeedbags2.png" width="120px" height="100px">
+<img src="Avanti-Frozen.jpg" width="230px" height="120px">
+<img src="avanti-frozen1.jpg" width="230px" height="120px">
+<img src="Avanti-Feeds1.png" width="230px" height="120px">
+<img src="Avanti-Feeds2.png" width="230px" height="120px">
+<img src="AVANT-prow-1.jpg" width="120px" height="120px">
+<img src="avantifeedbags2.png" width="120px" height="100px">
+<img src="avantifeedbags.png" width="120px" height="100px">
 </div>
 
 <div class="calendar-container">
